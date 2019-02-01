@@ -1,0 +1,10 @@
+body { width: 100%; }
+
+main { width: auto; padding: 50px; background-color: #e5e5e5; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+
+.one { color: black; background-color: #e5e5e5; }
+
+.six { background-color: #129fea; }
+
+button { background-color: #3c444e; border-radius: 5px; padding: 10px 50px; color: white; }
+/*# sourceMappingURL=style.css.map */

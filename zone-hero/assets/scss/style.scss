@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+.titre{
+    padding-left: 150px;
+    padding-top: 250px;
+    font-size: 1.2em;
+}
+button{
+background-color: #e5b840;
+padding: 20px;
+}
