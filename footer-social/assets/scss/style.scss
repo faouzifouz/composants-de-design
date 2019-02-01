@@ -1,0 +1,51 @@
+*{
+
+    margin:0;
+    
+    padding:0;
+    
+    }
+body, html{
+    background-color: black;
+    height: 100%;
+  
+
+}
+
+
+footer{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: #f8f3e9;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color:#aca8a0;
+    
+    ul{
+        display: flex;
+        flex-direction: row;
+        margin-left: 700px;
+
+       
+        
+        
+        li{
+            list-style: none;
+            height: 10px;
+            width: 100px;
+
+             
+            img{
+                height: 30px;
+                
+            }
+            a{
+                text-decoration: none;
+                padding: 20px;
+                color: #aca8a0
+            }
+        }
+    }
+}
